@@ -16,7 +16,11 @@
             "topics": [],
             "sourceDomain": "cnbc.com",
             "category": "Business",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/programmes/m001x48c",
@@ -31,7 +35,11 @@
             "topics": [],
             "sourceDomain": "bbc.co.uk",
             "category": "",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
@@ -50,7 +58,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/cricket/68521385",
@@ -69,7 +81,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
@@ -84,7 +100,11 @@
             "topics": [],
             "sourceDomain": "bbc.co.uk",
             "category": "Health",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           }
         ]
       }

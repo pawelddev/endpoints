@@ -23,7 +23,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Auto",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/programmes/m001x040",
@@ -38,7 +42,11 @@
             "topics": [],
             "sourceDomain": "bbc.co.uk",
             "category": "Entertainment",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/av/uk-68521122",
@@ -57,7 +65,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Weather",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/football/68455036",
@@ -79,7 +91,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
@@ -98,7 +114,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           }
         ]
       }

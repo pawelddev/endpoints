@@ -36,7 +36,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "General",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-wales-68520802",
@@ -55,7 +59,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
@@ -70,7 +78,11 @@
             "topics": [],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
@@ -89,7 +101,11 @@
             ],
             "sourceDomain": "cnbc.com",
             "category": "Tech",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
@@ -108,7 +124,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           }
         ]
       }

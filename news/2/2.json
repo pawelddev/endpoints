@@ -20,7 +20,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Politics",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-england-london-68524612",
@@ -39,7 +43,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
@@ -54,7 +62,11 @@
             "topics": [],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
@@ -73,7 +85,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Sports",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           },
           {
             "url": "https://www.bbc.co.uk/news/world-europe-68528241",
@@ -101,7 +117,11 @@
             ],
             "sourceDomain": "bbc.co.uk",
             "category": "Politics",
-            "paywall": false
+            "paywall": false,
+            "uploadedDayDate": 20240824,
+            "positionLift": 0,
+            "isInHomePage": true,
+            "isHidden": false
           }
         ]
       }
