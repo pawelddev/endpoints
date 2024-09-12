@@ -1,115 +1,117 @@
 {
   "data": {
-    "categories": [
-      "Home",
-      "Business",
-      "",
-      "Sports",
-      "Auto",
-      "Weather",
-      "Tech",
-      "Politics",
-      "Entertainment",
-      "Health",
-      "General"
-    ],
-    "page": {
-      "articles": [
-        {
-          "url": "https://www.bbc.co.uk/news/uk-england-london-68529148",
-          "articleId": "0d7aee0e2e2f49d2bd45f4e9bd2c7505",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/C2FE/production/_132881994_466f79a0-7f16-4301-a3b2-8f22dd420223.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-10T15:45:12+00:00",
-          "title": "Lewisham: Investigation under way after man shot dead",
-          "description": "Police officers were called to Catford Broadway at about 04:30 GMT on Sunday, where a man was found.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Europe"
-            },
-            {
-              "name": "Crime"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "General",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/uk-wales-68520802",
-          "articleId": "c1aa51109c9f45268349932f18a60f7b",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4216/production/_132881961_pic.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-10T15:44:48+00:00",
-          "title": "Six Nations: Cancer fundraiser delivers match ball after hike",
-          "description": "Craig Maxwell ends his walk of the Welsh coast at the Principality Stadium ahead of Wales v France.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Europe"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Sports",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
-          "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_sport/1540/live/178f5fd0-def5-11ee-915e-97b0b9978a7e.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-10T15:44:36.705000+00:00",
-          "title": "Aston Villa 0-4 Tottenham: What Emery said",
-          "description": "Aston Villa 0-4 Tottenham: What Emery said",
-          "medium": "Article",
-          "topics": [],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Sports",
-          "paywall": false
-        },
-        {
-          "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
-          "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
-          "country": "us",
-          "language": "en",
-          "pubDate": "2024-03-10T15:41:48+00:00",
-          "title": "Why Walmart's quick success in generative AI search should have Google worried",
-          "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "AI"
-            }
-          ],
-          "sourceDomain": "cnbc.com",
-          "category": "Tech",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
-          "articleId": "a066e70734dc42bc8dca34ccd5787dde",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16A42/production/_104383729_fire.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-10T15:38:48+00:00",
-          "title": "Bangor flats fire: Person taken to hospital as a precaution",
-          "description": "It is believed the fire was started deliberately and was caused by pouring an accelerant over a door.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Europe"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "",
-          "paywall": false
-        }
-      ]
+    "articles": {
+      "homeCategory": "Home",
+      "categories": [
+        "Home",
+        "Business",
+        "Sports",
+        "Auto",
+        "Weather",
+        "Tech",
+        "Politics",
+        "Entertainment",
+        "Health",
+        "General"
+      ],
+      "content": {
+        "page": [
+          {
+            "url": "https://www.bbc.co.uk/news/uk-england-london-68529148",
+            "articleId": "0d7aee0e2e2f49d2bd45f4e9bd2c7505",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/C2FE/production/_132881994_466f79a0-7f16-4301-a3b2-8f22dd420223.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:45:12+00:00",
+            "title": "Lewisham: Investigation under way after man shot dead",
+            "description": "Police officers were called to Catford Broadway at about 04:30 GMT on Sunday, where a man was found.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Europe"
+              },
+              {
+                "name": "Crime"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "General",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/uk-wales-68520802",
+            "articleId": "c1aa51109c9f45268349932f18a60f7b",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4216/production/_132881961_pic.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:44:48+00:00",
+            "title": "Six Nations: Cancer fundraiser delivers match ball after hike",
+            "description": "Craig Maxwell ends his walk of the Welsh coast at the Principality Stadium ahead of Wales v France.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Europe"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Sports",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
+            "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_sport/1540/live/178f5fd0-def5-11ee-915e-97b0b9978a7e.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:44:36.705000+00:00",
+            "title": "Aston Villa 0-4 Tottenham: What Emery said",
+            "description": "Aston Villa 0-4 Tottenham: What Emery said",
+            "medium": "Article",
+            "topics": [],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Sports",
+            "paywall": false
+          },
+          {
+            "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+            "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-03-10T15:41:48+00:00",
+            "title": "Why Walmart's quick success in generative AI search should have Google worried",
+            "description": "Walmart is talking up its ability to layer generative AI into search within its website for more customized shopping. Should Google be worried?",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "AI"
+              }
+            ],
+            "sourceDomain": "cnbc.com",
+            "category": "Tech",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+            "articleId": "a066e70734dc42bc8dca34ccd5787dde",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16A42/production/_104383729_fire.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-10T15:38:48+00:00",
+            "title": "Bangor flats fire: Person taken to hospital as a precaution",
+            "description": "It is believed the fire was started deliberately and was caused by pouring an accelerant over a door.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Europe"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "",
+            "paywall": false
+          }
+        ]
+      }
     }
   }
 }

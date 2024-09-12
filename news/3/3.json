@@ -1,91 +1,93 @@
 {
   "data": {
-    "page": {
-      "articles": [
-        {
-          "url": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
-          "articleId": "83b8fcb5aacb426cbd479a95f079f5c1",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107384902-1709918439712-PortillosKissimmeeFL-21.jpg?v=1709933323&w=1920&h=1080",
-          "country": "us",
-          "language": "en",
-          "pubDate": "2024-03-09T13:00:01+00:00",
-          "title": "McDonald’s and other restaurant chains look to the Sun Belt for growth as population soars",
-          "description": "As the population of the Sun Belt grows, restaurant chains such as McDonald's and Portillo's are looking to those states for future sales growth.",
-          "medium": "Article",
-          "topics": [],
-          "sourceDomain": "cnbc.com",
-          "category": "Business",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/programmes/m001x48c",
-          "articleId": "6159dbc5adfc4ef7ba1fc06f6855b739",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hh51w5.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:55:00+00:00",
-          "title": "BBC Radio 4 - Money Box, Frozen Tax Thresholds and Bailiffs",
-          "description": "What do frozen income tax thresholds mean for your money?",
-          "medium": "Article",
-          "topics": [],
-          "sourceDomain": "bbc.co.uk",
-          "category": "",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
-          "articleId": "e6205960fd3646a79581c6f98ab9d9ac",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1510E/production/_132868268_finlayroad.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:53:32+00:00",
-          "title": "Gloucester man, 44, dies after car mounts pavement",
-          "description": "Police are looking for witnesses after the man died from serious injuries after being run over.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Europe"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/sport/cricket/68521385",
-          "articleId": "252d00627eaa445b942c3f6f747c7a5c",
-          "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5FF7/production/_132876542_f0399abfc9d29230321d9153a00300bcb788c9fe.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:51:29+00:00",
-          "title": "England's frustrating series of missed opportunities - Agnew",
-          "description": "Missed opportunities cost England throughout their 4-1 series defeat to India, writes BBC cricket correspondent Jonathan Agnew.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Cricket"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Sports",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
-          "articleId": "83a974a9bac94802977d22a41f8ffcb0",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e71e/live/43109c80-de0c-11ee-a939-5760c0bd388b.png",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:47:50.128000+00:00",
-          "title": "West Midlands Ambulance Service: Call for probe after deaths",
-          "description": "Councillors say the issue is serious and West Midlands Ambulance Services share some concerns.",
-          "medium": "Article",
-          "topics": [],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Health",
-          "paywall": false
-        }
-      ]
+    "articles": {
+      "content": {
+        "page": [
+          {
+            "url": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
+            "articleId": "83b8fcb5aacb426cbd479a95f079f5c1",
+            "imageUrl": "https://image.cnbcfm.com/api/v1/image/107384902-1709918439712-PortillosKissimmeeFL-21.jpg?v=1709933323&w=1920&h=1080",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-03-09T13:00:01+00:00",
+            "title": "McDonald’s and other restaurant chains look to the Sun Belt for growth as population soars",
+            "description": "As the population of the Sun Belt grows, restaurant chains such as McDonald's and Portillo's are looking to those states for future sales growth.",
+            "medium": "Article",
+            "topics": [],
+            "sourceDomain": "cnbc.com",
+            "category": "Business",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/programmes/m001x48c",
+            "articleId": "6159dbc5adfc4ef7ba1fc06f6855b739",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hh51w5.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:55:00+00:00",
+            "title": "BBC Radio 4 - Money Box, Frozen Tax Thresholds and Bailiffs",
+            "description": "What do frozen income tax thresholds mean for your money?",
+            "medium": "Article",
+            "topics": [],
+            "sourceDomain": "bbc.co.uk",
+            "category": "",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
+            "articleId": "e6205960fd3646a79581c6f98ab9d9ac",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1510E/production/_132868268_finlayroad.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:53:32+00:00",
+            "title": "Gloucester man, 44, dies after car mounts pavement",
+            "description": "Police are looking for witnesses after the man died from serious injuries after being run over.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Europe"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/sport/cricket/68521385",
+            "articleId": "252d00627eaa445b942c3f6f747c7a5c",
+            "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5FF7/production/_132876542_f0399abfc9d29230321d9153a00300bcb788c9fe.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:51:29+00:00",
+            "title": "England's frustrating series of missed opportunities - Agnew",
+            "description": "Missed opportunities cost England throughout their 4-1 series defeat to India, writes BBC cricket correspondent Jonathan Agnew.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Cricket"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Sports",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
+            "articleId": "83a974a9bac94802977d22a41f8ffcb0",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e71e/live/43109c80-de0c-11ee-a939-5760c0bd388b.png",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:47:50.128000+00:00",
+            "title": "West Midlands Ambulance Service: Call for probe after deaths",
+            "description": "Councillors say the issue is serious and West Midlands Ambulance Services share some concerns.",
+            "medium": "Article",
+            "topics": [],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Health",
+            "paywall": false
+          }
+        ]
+      }
     }
   }
 }

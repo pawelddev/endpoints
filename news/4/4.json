@@ -1,105 +1,107 @@
 {
   "data": {
-    "page": {
-      "articles": [
-        {
-          "url": "https://www.bbc.co.uk/news/uk-england-norfolk-68521797",
-          "articleId": "16bc603a7a4649b1aff687cefce4453f",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2D2F/production/_132876511_stowbedon.png",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:46:46+00:00",
-          "title": "Man dies after two-vehicle collision near Stow Bedon",
-          "description": "Police say a man in his 20s has been arrested on suspicion of causing death by dangerous driving.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Europe"
-            },
-            {
-              "name": "Traffic"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Auto",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/programmes/m001x040",
-          "articleId": "517bed880a1e4faeaa0aa33135556ea3",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hgkdhh.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:40:43+00:00",
-          "title": "BBC Radio 2 - The Country Show with Bob Harris, Radio 2 Loves Country – C2C Live",
-          "description": "Highlights of the Country to Country festival from London, Glasgow and Belfast.",
-          "medium": "Article",
-          "topics": [],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Entertainment",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/av/uk-68521122",
-          "articleId": "6cdac77c243e4b84983245a3831e09d4",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/AC87/production/_132876144_p0hhmlgm.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:39:04+00:00",
-          "title": "BBC Weather presenter v Gladiators",
-          "description": "Meteorologist Simon King was no match for Fire and Steel when he met them in the BBC Breakfast studio.",
-          "medium": "Video",
-          "topics": [
-            {
-              "name": "Europe"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Weather",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/sport/football/68455036",
-          "articleId": "5adc1c3360f7488482ed9cc1bfe93071",
-          "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/F673/production/_132719036_gettyimages-1701279595.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:37:08+00:00",
-          "title": "Sutton United v Grimsby Town",
-          "description": "Live coverage of Saturday's League Two game between Sutton United and Grimsby Town.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Football"
-            },
-            {
-              "name": "European Football"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Sports",
-          "paywall": false
-        },
-        {
-          "url": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
-          "articleId": "62666b0cb44a43b2bcf7ddbc07d3eb1f",
-          "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p08r2xnt.jpg",
-          "country": "gb",
-          "language": "en",
-          "pubDate": "2024-03-09T12:36:11+00:00",
-          "title": "Rugby League: Challenge Cup - 2024: Fifth Round: Swinton Lions v Sheffield Eagles",
-          "description": "Swinton Lions host Sheffield Eagles in the fifth round of rugby league’s Challenge Cup.",
-          "medium": "Article",
-          "topics": [
-            {
-              "name": "Rugby"
-            }
-          ],
-          "sourceDomain": "bbc.co.uk",
-          "category": "Sports",
-          "paywall": false
-        }
-      ]
+    "articles": {
+      "content": {
+        "page": [
+          {
+            "url": "https://www.bbc.co.uk/news/uk-england-norfolk-68521797",
+            "articleId": "16bc603a7a4649b1aff687cefce4453f",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2D2F/production/_132876511_stowbedon.png",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:46:46+00:00",
+            "title": "Man dies after two-vehicle collision near Stow Bedon",
+            "description": "Police say a man in his 20s has been arrested on suspicion of causing death by dangerous driving.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Europe"
+              },
+              {
+                "name": "Traffic"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Auto",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/programmes/m001x040",
+            "articleId": "517bed880a1e4faeaa0aa33135556ea3",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hgkdhh.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:40:43+00:00",
+            "title": "BBC Radio 2 - The Country Show with Bob Harris, Radio 2 Loves Country – C2C Live",
+            "description": "Highlights of the Country to Country festival from London, Glasgow and Belfast.",
+            "medium": "Article",
+            "topics": [],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Entertainment",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/news/av/uk-68521122",
+            "articleId": "6cdac77c243e4b84983245a3831e09d4",
+            "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/AC87/production/_132876144_p0hhmlgm.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:39:04+00:00",
+            "title": "BBC Weather presenter v Gladiators",
+            "description": "Meteorologist Simon King was no match for Fire and Steel when he met them in the BBC Breakfast studio.",
+            "medium": "Video",
+            "topics": [
+              {
+                "name": "Europe"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Weather",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/sport/football/68455036",
+            "articleId": "5adc1c3360f7488482ed9cc1bfe93071",
+            "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/F673/production/_132719036_gettyimages-1701279595.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:37:08+00:00",
+            "title": "Sutton United v Grimsby Town",
+            "description": "Live coverage of Saturday's League Two game between Sutton United and Grimsby Town.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Football"
+              },
+              {
+                "name": "European Football"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Sports",
+            "paywall": false
+          },
+          {
+            "url": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
+            "articleId": "62666b0cb44a43b2bcf7ddbc07d3eb1f",
+            "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p08r2xnt.jpg",
+            "country": "gb",
+            "language": "en",
+            "pubDate": "2024-03-09T12:36:11+00:00",
+            "title": "Rugby League: Challenge Cup - 2024: Fifth Round: Swinton Lions v Sheffield Eagles",
+            "description": "Swinton Lions host Sheffield Eagles in the fifth round of rugby league’s Challenge Cup.",
+            "medium": "Article",
+            "topics": [
+              {
+                "name": "Rugby"
+              }
+            ],
+            "sourceDomain": "bbc.co.uk",
+            "category": "Sports",
+            "paywall": false
+          }
+        ]
+      }
     }
   }
 }
