@@ -12,16 +12,20 @@
             "pubDate": "2024-03-09T13:00:01+00:00",
             "title": "McDonald’s and other restaurant chains look to the Sun Belt for growth as population soars",
             "description": "As the population of the Sun Belt grows, restaurant chains such as McDonald's and Portillo's are looking to those states for future sales growth.",
-            "medium": "Article",
-            "topics": [],
             "sourceDomain": "cnbc.com",
-            "category": "Business",
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Business",
+                "topicCategory": "Business"
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/programmes/m001x48c",
@@ -32,16 +36,20 @@
             "pubDate": "2024-03-09T12:55:00+00:00",
             "title": "BBC Radio 4 - Money Box, Frozen Tax Thresholds and Bailiffs",
             "description": "What do frozen income tax thresholds mean for your money?",
-            "medium": "Article",
-            "topics": [],
             "sourceDomain": "bbc.co.uk",
-            "category": "",
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "",
+                "topicCategory": ""
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
@@ -52,20 +60,20 @@
             "pubDate": "2024-03-09T12:53:32+00:00",
             "title": "Gloucester man, 44, dies after car mounts pavement",
             "description": "Police are looking for witnesses after the man died from serious injuries after being run over.",
-            "medium": "Article",
-            "topics": [
-              {
-                "name": "Europe"
-              }
-            ],
             "sourceDomain": "bbc.co.uk",
-            "category": "",
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "",
+                "topicCategory": ""
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/cricket/68521385",
@@ -76,20 +84,20 @@
             "pubDate": "2024-03-09T12:51:29+00:00",
             "title": "England's frustrating series of missed opportunities - Agnew",
             "description": "Missed opportunities cost England throughout their 4-1 series defeat to India, writes BBC cricket correspondent Jonathan Agnew.",
-            "medium": "Article",
-            "topics": [
-              {
-                "name": "Cricket"
-              }
-            ],
             "sourceDomain": "bbc.co.uk",
-            "category": "Sports",
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Sports",
+                "topicCategory": "Sports"
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
@@ -100,16 +108,20 @@
             "pubDate": "2024-03-09T12:47:50.128000+00:00",
             "title": "West Midlands Ambulance Service: Call for probe after deaths",
             "description": "Councillors say the issue is serious and West Midlands Ambulance Services share some concerns.",
-            "medium": "Article",
-            "topics": [],
             "sourceDomain": "bbc.co.uk",
-            "category": "Health",
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Health",
+                "topicCategory": "Health"
+              }
+            ],
+            "isVideo": false
           }
         ]
       }

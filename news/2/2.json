@@ -12,20 +12,20 @@
             "pubDate": "2024-03-10T15:37:56+00:00",
             "title": "Two Lancashire council leaders denounce devolution deal",
             "description": "Leaders of Preston and South Ribble councils have renewed their criticism of the proposed agreement.",
-            "medium": "Article",
-            "topics": [
-              {
-                "name": "Europe"
-              }
-            ],
             "sourceDomain": "bbc.co.uk",
-            "category": "Politics",
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Politics",
+                "topicCategory": "Politics"
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-england-london-68524612",
@@ -36,20 +36,20 @@
             "pubDate": "2024-03-10T15:37:28+00:00",
             "title": "Teddington: Water samples to be taken after concerns of possible sewage",
             "description": "Residents near Teddington Lock said they saw what looked like \"brown lumps of porridge\" in the water.",
-            "medium": "Article",
-            "topics": [
-              {
-                "name": "Europe"
-              }
-            ],
             "sourceDomain": "bbc.co.uk",
-            "category": "",
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "",
+                "topicCategory": ""
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
@@ -60,16 +60,20 @@
             "pubDate": "2024-03-10T15:30:27.331000+00:00",
             "title": "Aston Villa 0-4 Tottenham: What Postecoglou said",
             "description": "Aston Villa 0-4 Tottenham: What Postecoglou said",
-            "medium": "Article",
-            "topics": [],
             "sourceDomain": "bbc.co.uk",
-            "category": "Sports",
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Sports",
+                "topicCategory": "Sports"
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
@@ -80,20 +84,20 @@
             "pubDate": "2024-03-10T15:28:16+00:00",
             "title": "Dyer speeds through France defence to score opening Wales try",
             "description": "Watch as Welsh winger Rio Dyer speeds through France's defence to score the opening try of their Six Nations encounter in Cardiff.",
-            "medium": "Article",
-            "topics": [
-              {
-                "name": "Rugby"
-              }
-            ],
             "sourceDomain": "bbc.co.uk",
-            "category": "Sports",
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Sports",
+                "topicCategory": "Sports"
+              }
+            ],
+            "isVideo": false
           },
           {
             "url": "https://www.bbc.co.uk/news/world-europe-68528241",
@@ -104,29 +108,20 @@
             "pubDate": "2024-03-10T15:25:57+00:00",
             "title": "Israeli President Herzog's visit to Dutch Holocaust Museum sparks protests",
             "description": "Demonstrators have thrown fireworks and eggs at riot police in protest of his visit, Dutch media says.",
-            "medium": "Article",
-            "topics": [
-              {
-                "name": "Social Issues"
-              },
-              {
-                "name": "Protests"
-              },
-              {
-                "name": "The Holocaust"
-              },
-              {
-                "name": "Europe"
-              }
-            ],
             "sourceDomain": "bbc.co.uk",
-            "category": "Politics",
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
             "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0
+            "politicalBias": 0,
+            "topics": [
+              {
+                "name": "Politics",
+                "topicCategory": "Politics"
+              }
+            ],
+            "isVideo": false
           }
         ]
       }
