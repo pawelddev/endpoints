@@ -1,19 +1,31 @@
 {
   "data": {
+    "metaBottomNav": [
+      {
+        "metaCategoryName": "Category",
+        "onlyVideo": false,
+        "displayName": "Read"
+      }
+    ],
+    "metaCategories": [
+      {
+        "name": "Category",
+        "homeName": "Home",
+        "topicCategories": [
+          "Home",
+          "Business",
+          "Sports",
+          "Auto",
+          "Weather",
+          "Tech",
+          "Politics",
+          "Entertainment",
+          "Health",
+          "General"
+        ]
+      }
+    ],
     "articles": {
-      "homeCategory": "Home",
-      "categories": [
-        "Home",
-        "Business",
-        "Sports",
-        "Auto",
-        "Weather",
-        "Tech",
-        "Politics",
-        "Entertainment",
-        "Health",
-        "General"
-      ],
       "content": {
         "page": [
           {
