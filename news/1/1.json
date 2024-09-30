@@ -1,29 +1,58 @@
 {
   "data": {
-    "metaBottomNav": [
-      {
-        "metaCategoryName": "Category",
-        "onlyVideo": false,
-        "displayName": "Read"
-      }
-    ],
-    "metaCategories": [
-      {
-        "name": "Category",
-        "homeName": "Home",
-        "topicCategories": [
-          "Business",
-          "Sports",
-          "Auto",
-          "Weather",
-          "Tech",
-          "Politics",
-          "Entertainment",
-          "Health",
-          "General"
+    "config": {
+      "ads": {
+        "articleList": {
+          "adPositionOffset": 2,
+          "numberOfArticlesBeforeAd": 10
+        },
+        "androidAdUnitIds": [
+          [
+            "ca-app-pub-3940256099942544/2247696110",
+            "ca-app-pub-3940256099942544/3986624511"
+          ]
+        ]
+      },
+      "bottomNav": {
+        "items": [
+          {
+            "labelName": "Read",
+            "type": "ArticleListConfig",
+            "onlyVideo": false,
+            "noCategoryTabs": false,
+            "iconName": "book",
+            "topicCategories": [
+              "Top Stories",
+              "Business",
+              "Sports",
+              "Auto",
+              "Weather",
+              "Tech",
+              "Politics",
+              "Entertainment",
+              "Health",
+              "General"
+            ],
+            "mappedTopicCategoriesInTabs": [
+              "Mega News"
+            ]
+          },
+          {
+            "labelName": "Sports",
+            "type": "ArticleListConfig",
+            "onlyVideo": false,
+            "noCategoryTabs": false,
+            "iconName": "soccer_ball",
+            "topicCategories": [
+              "Top Stories",
+              "Sports",
+              "Entertainment"
+            ],
+            "mappedTopicCategoriesInTabs": []
+          }
         ]
       }
-    ],
+    },
     "articles": {
       "content": {
         "page": [
