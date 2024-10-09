@@ -24,8 +24,8 @@
           {
             "labelName": "Read",
             "type": "ArticleListConfig",
-            "onlyVideo": false,
-            "oneCategory": false,
+            "isOnlyVideo": false,
+            "isOneCategory": false,
             "iconName": "book",
             "topicCategories": [
               "Top Stories",
@@ -46,8 +46,8 @@
           {
             "labelName": "Sports",
             "type": "ArticleListConfig",
-            "onlyVideo": false,
-            "oneCategory": true,
+            "isOnlyVideo": false,
+            "isOneCategory": true,
             "iconName": "soccer_ball",
             "topicCategories": [
               "Top Stories",
