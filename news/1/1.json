@@ -25,7 +25,7 @@
             "labelName": "Read",
             "type": "ArticleListConfig",
             "onlyVideo": false,
-            "noCategoryTabs": false,
+            "oneCategory": false,
             "iconName": "book",
             "topicCategories": [
               "Top Stories",
@@ -47,7 +47,7 @@
             "labelName": "Sports",
             "type": "ArticleListConfig",
             "onlyVideo": false,
-            "noCategoryTabs": false,
+            "oneCategory": true,
             "iconName": "soccer_ball",
             "topicCategories": [
               "Top Stories",
