@@ -4,7 +4,6 @@
       "content": {
         "page": [
           {
-            "url": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
             "articleId": "83b8fcb5aacb426cbd479a95f079f5c1",
             "imageUrl": "https://image.cnbcfm.com/api/v1/image/107384902-1709918439712-PortillosKissimmeeFL-21.jpg?v=1709933323&w=1920&h=1080",
             "country": "us",
@@ -16,9 +15,7 @@
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Business",
@@ -29,10 +26,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.cnbc.com/2024/03/09/mcdonalds-portillos-dutch-bros-open-restaurants-in-the-sun-belt.html",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/programmes/m001x48c",
             "articleId": "6159dbc5adfc4ef7ba1fc06f6855b739",
             "imageUrl": "https://ichef.bbci.co.uk/images/ic/1200x675/p0hh51w5.jpg",
             "country": "gb",
@@ -44,9 +45,7 @@
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "",
@@ -57,10 +56,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/programmes/m001x48c",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
             "articleId": "e6205960fd3646a79581c6f98ab9d9ac",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1510E/production/_132868268_finlayroad.jpg",
             "country": "gb",
@@ -72,9 +75,7 @@
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "",
@@ -85,10 +86,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/sport/cricket/68521385",
             "articleId": "252d00627eaa445b942c3f6f747c7a5c",
             "imageUrl": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/5FF7/production/_132876542_f0399abfc9d29230321d9153a00300bcb788c9fe.jpg",
             "country": "gb",
@@ -100,9 +105,7 @@
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Sports",
@@ -113,10 +116,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/sport/cricket/68521385",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
             "articleId": "83a974a9bac94802977d22a41f8ffcb0",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e71e/live/43109c80-de0c-11ee-a939-5760c0bd388b.png",
             "country": "gb",
@@ -128,9 +135,7 @@
             "paywall": false,
             "uploadedDayDate": 20240912,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Health",
@@ -141,7 +146,12 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
+            "isDetailsNative": false
           }
         ]
       }

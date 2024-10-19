@@ -4,7 +4,6 @@
       "content": {
         "page": [
           {
-            "url": "https://www.bbc.co.uk/news/uk-england-lancashire-68527885",
             "articleId": "1ee140dd99834f8b8286c83f84feb906",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8A5A/production/_132881453_4ff402b828ba5b4937f85d41a64a33b7f95ee1c8.jpg",
             "country": "gb",
@@ -16,9 +15,7 @@
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Politics",
@@ -29,10 +26,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-lancashire-68527885",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/news/uk-england-london-68524612",
             "articleId": "b613ea707feb4a359bf75f18f4bb7d42",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/18194/production/_132880789_2bc918c1-5cd0-4619-97cb-774a3e80fae8.jpg",
             "country": "gb",
@@ -44,9 +45,7 @@
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "",
@@ -57,10 +56,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-london-68524612",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
             "articleId": "e4581a72748140089ac2a5eda2c0b929",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_sport/5048/live/16b2f470-def3-11ee-981f-8f6f9c54656e.jpg",
             "country": "gb",
@@ -72,9 +75,7 @@
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Sports",
@@ -85,10 +86,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
             "articleId": "aac4e23b26974eebb83b002490cd95de",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D6F4/production/_132882055_p0hhsg73.jpg",
             "country": "gb",
@@ -100,9 +105,7 @@
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Sports",
@@ -113,10 +116,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/news/world-europe-68528241",
             "articleId": "4595bcc6a060463b8d99c38d53120049",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/DBFE/production/_132881365_annotation2024-03-10124517.jpggrgrrg.jpgttbtbtbtb.jpg",
             "country": "gb",
@@ -128,9 +135,7 @@
             "paywall": false,
             "uploadedDayDate": 20240913,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Politics",
@@ -141,7 +146,12 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/world-europe-68528241",
+            "isDetailsNative": false
           }
         ]
       }

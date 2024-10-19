@@ -1,7 +1,7 @@
 {
   "data": {
     "config": {
-      "version" : 1,
+      "version": 1,
       "ads": {
         "articleList": {
           "adPositionOffset": 2,
@@ -76,7 +76,6 @@
       "content": {
         "page": [
           {
-            "url": "https://www.bbc.co.uk/news/uk-england-london-68529148",
             "articleId": "0d7aee0e2e2f49d2bd45f4e9bd2c7505",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/C2FE/production/_132881994_466f79a0-7f16-4301-a3b2-8f22dd420223.jpg",
             "country": "gb",
@@ -88,9 +87,7 @@
             "paywall": false,
             "uploadedDayDate": 20240914,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "General",
@@ -101,10 +98,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/uk-england-london-68529148",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/news/uk-wales-68520802",
             "articleId": "c1aa51109c9f45268349932f18a60f7b",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4216/production/_132881961_pic.jpg",
             "country": "gb",
@@ -116,9 +117,7 @@
             "paywall": false,
             "uploadedDayDate": 20240914,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Sports",
@@ -129,10 +128,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/uk-wales-68520802",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
             "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_sport/1540/live/178f5fd0-def5-11ee-915e-97b0b9978a7e.jpg",
             "country": "gb",
@@ -144,9 +147,7 @@
             "paywall": false,
             "uploadedDayDate": 20240914,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Sports",
@@ -157,10 +158,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
             "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
             "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1920&h=1080",
             "country": "us",
@@ -172,9 +177,7 @@
             "paywall": false,
             "uploadedDayDate": 20240914,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "Tech",
@@ -185,10 +188,14 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
+            "isDetailsNative": false
           },
           {
-            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
             "articleId": "a066e70734dc42bc8dca34ccd5787dde",
             "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16A42/production/_104383729_fire.jpg",
             "country": "gb",
@@ -200,9 +207,7 @@
             "paywall": false,
             "uploadedDayDate": 20240914,
             "positionLift": 0,
-            "isInHomePage": true,
             "isHidden": false,
-            "politicalBias": 0,
             "topics": [
               {
                 "name": "",
@@ -213,7 +218,12 @@
                 "topicCategory": "Top Stories"
               }
             ],
-            "isVideo": false
+            "isVideo": false,
+            "isPoliticalLeft": false,
+            "isPoliticalRight": false,
+            "isPoliticalCenter": false,
+            "detailsUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
+            "isDetailsNative": false
           }
         ]
       }
