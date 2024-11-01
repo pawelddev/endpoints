@@ -31,7 +31,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/uk-england-lancashire-68527885",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "b613ea707feb4a359bf75f18f4bb7d42",
@@ -61,7 +67,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/uk-england-london-68524612",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "e4581a72748140089ac2a5eda2c0b929",
@@ -91,7 +103,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "aac4e23b26974eebb83b002490cd95de",
@@ -121,7 +139,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "4595bcc6a060463b8d99c38d53120049",
@@ -151,7 +175,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/world-europe-68528241",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           }
         ]
       }

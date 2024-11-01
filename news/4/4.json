@@ -31,7 +31,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/uk-england-norfolk-68521797",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "517bed880a1e4faeaa0aa33135556ea3",
@@ -61,7 +67,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/programmes/m001x040",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "6cdac77c243e4b84983245a3831e09d4",
@@ -91,7 +103,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/av/uk-68521122",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "5adc1c3360f7488482ed9cc1bfe93071",
@@ -121,7 +139,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/sport/football/68455036",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "62666b0cb44a43b2bcf7ddbc07d3eb1f",
@@ -151,7 +175,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           }
         ]
       }

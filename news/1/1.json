@@ -103,7 +103,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/uk-england-london-68529148",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "c1aa51109c9f45268349932f18a60f7b",
@@ -133,7 +139,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/uk-wales-68520802",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "104c2a1fcfa6416aaea27578fa2799d6",
@@ -163,7 +175,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
@@ -193,7 +211,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           },
           {
             "articleId": "a066e70734dc42bc8dca34ccd5787dde",
@@ -223,7 +247,13 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
-            "isDetailsNative": false
+            "isDetailsNative": false,
+            "contentRank": {
+              "isImportant": false,
+              "isHistoric": false,
+              "isCoverUnimportant": false,
+              "isDescriptionImportant": false
+            }
           }
         ]
       }
