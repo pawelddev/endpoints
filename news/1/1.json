@@ -11,11 +11,11 @@
           [
             {
               "adUnitId": "ca-app-pub-3940256099942544/2247696110",
-              "type": "AdmobNative"
+              "type": "AdmobNativeMedium"
             },
             {
               "adUnitId": "ca-app-pub-3940256099942544/3986624511",
-              "type": "AdmobNative"
+              "type": "AdmobNativeMedium"
             }
           ]
         ],
@@ -23,11 +23,11 @@
           [
             {
               "adUnitId": "ca-app-pub-3940256099942544/2247696110",
-              "type": "AdmobNative"
+              "type": "AdmobNativeMedium"
             },
             {
               "adUnitId": "ca-app-pub-3940256099942544/3986624511",
-              "type": "AdmobNative"
+              "type": "AdmobNativeMedium"
             }
           ]
         ]
