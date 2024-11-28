@@ -224,7 +224,7 @@
             "isPoliticalRight": false,
             "isPoliticalCenter": false,
             "detailsUrl": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
-            "isDetailsNative": false,
+            "isDetailsNative": true,
             "contentRank": {
               "isImportant": false,
               "isHistoric": false,
