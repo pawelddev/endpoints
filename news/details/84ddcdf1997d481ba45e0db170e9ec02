@@ -63,11 +63,6 @@
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
           "imageDescription": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
           "imageSource": "Bloomberg | Bloomberg | Getty Images"
-        },
-        {
-          "type": "ad",
-          "adUnitId": "ca-app-pub-3940256099942544/2247696110",
-          "adType": "AdmobNativeMedium"
         }
       ]
     }
