@@ -1,12 +1,14 @@
 {
   "data": {
-    "articleDetails": {
+    "details": {
       "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
       "title": "Why Walmart’s quick success in generative AI search should have Google worried",
       "description": "Walmart CEO Doug McMillon has talked up the retail company’s generative AI search capabilities, one more threat to Alphabet’s internet dominance..",
       "sourceDomain": "cnbc.com",
       "paywall": false,
       "pubDate": "2024-03-10T15:41:48+00:00",
+      "isNative": "false",
+      "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
       "authors": [
         {
           "name": "Francesca Mari",
