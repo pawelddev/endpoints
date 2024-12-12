@@ -7,7 +7,7 @@
       "sourceDomain": "cnbc.com",
       "paywall": false,
       "pubDate": "2024-03-10T15:41:48+00:00",
-      "isNative": false,
+      "isNative": true,
       "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
       "authors": [
         {
