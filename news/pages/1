@@ -285,7 +285,7 @@
         "name": "live tv",
         "description": "latest news",
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
-        "programs": [
+        "programSchedule": [
           {
             "name": "Global Us",
             "description": "Living in flooded homes: Climate change in the Philippines",
