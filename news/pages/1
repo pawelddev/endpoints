@@ -302,6 +302,11 @@
             "startDate": "2024-03-10T05:41:48+00:00"
           },
           {
+            "name": "Witness",
+            "description": "AI's role in news raises concerns about journalistic integrity, deep fakes, misinformation, and accountability in content creation.",
+            "startDate": "2024-03-10T06:41:48+00:00"
+          },
+          {
             "name": "UpFront",
             "description": "Marc Lamont Hill discusses the power of Big Tech over our societies with Nobel Peace Prize laureate Maria Ressa and economist and author Yanis Varoufakis.",
             "startDate": "2024-03-10T10:41:48+00:00"
@@ -323,8 +328,18 @@
           },
           {
             "name": "Reframe",
-            "description": "Artist shares how tradition and innovation weave together through his work..",
+            "description": "Artist shares how tradition and innovation weave together through his work.",
             "startDate": "2024-03-10T20:41:48+00:00"
+          },
+          {
+            "name": "Against All",
+            "description": "Critiques and questions are getting harder to ignore.",
+            "startDate": "2024-03-10T22:41:48+00:00"
+          },
+          {
+            "name": "NEWS 30min",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2024-03-10T23:41:48+00:00"
           }
         ]
       }
