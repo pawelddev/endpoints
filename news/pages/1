@@ -287,14 +287,44 @@
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
         "programSchedule": [
           {
-            "name": "Global Us",
-            "description": "Living in flooded homes: Climate change in the Philippines",
-            "startDate": "2024-03-10T15:41:48+00:00"
+            "name": "NEWS 30min",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2024-03-10T01:41:48+00:00"
           },
           {
-            "name": "DW News",
-            "description": "News",
-            "startDate": "2024-03-10T17:41:48+00:00"
+            "name": "People & Power : Climate Protest Crackdown",
+            "description": "People and Power meets environmental campaigners resorting to what their critics describe as ‘extremism’ to draw attention to the climate crisis.",
+            "startDate": "2024-03-10T02:41:48+00:00"
+          },
+          {
+            "name": "Inside Story",
+            "description": "Beyond the headlines to the heart of the news of the day. News gets the Inside Story from some of the best minds from around the globe.",
+            "startDate": "2024-03-10T05:41:48+00:00"
+          },
+          {
+            "name": "UpFront",
+            "description": "Marc Lamont Hill discusses the power of Big Tech over our societies with Nobel Peace Prize laureate Maria Ressa and economist and author Yanis Varoufakis.",
+            "startDate": "2024-03-10T10:41:48+00:00"
+          },
+          {
+            "name": "The Listening Post",
+            "description": "The critiques and questions are getting harder to ignore. Plus, what the media anticipates.",
+            "startDate": "2024-03-10T14:41:48+00:00"
+          },
+          {
+            "name": "People & Power : Climate Protest Crackdown",
+            "description": "People and Power meets environmental campaigners resorting to what their critics describe as ‘extremism’ to draw attention to the climate crisis.",
+            "startDate": "2024-03-10T16:41:48+00:00"
+          },
+          {
+            "name": "NEWSHOUR",
+            "description": "Up-to-date news and analysis from around the world.",
+            "startDate": "2024-03-10T18:41:48+00:00"
+          },
+          {
+            "name": "Reframe",
+            "description": "Artist shares how tradition and innovation weave together through his work..",
+            "startDate": "2024-03-10T20:41:48+00:00"
           }
         ]
       }
