@@ -165,6 +165,12 @@
             ],
             "mappedTopicCategoriesInTabs": [
               "Mega News"
+            ],
+            "pageLimits": [
+              {
+                "topicCategory": "Business",
+                "lastPage": 3
+              }
             ]
           },
           {
@@ -178,7 +184,8 @@
               "Sports",
               "Entertainment"
             ],
-            "mappedTopicCategoriesInTabs": []
+            "mappedTopicCategoriesInTabs": [],
+            "pageLimits": []
           }
         ]
       }
