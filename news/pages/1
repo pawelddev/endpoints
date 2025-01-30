@@ -149,7 +149,6 @@
             "labelName": "Read",
             "type": "ArticleListConfig",
             "isOnlyVideo": false,
-            "isOneCategory": false,
             "iconName": "book",
             "topicCategories": [
               "Top Stories",
@@ -177,12 +176,9 @@
             "labelName": "Sports",
             "type": "ArticleListConfig",
             "isOnlyVideo": false,
-            "isOneCategory": true,
             "iconName": "soccer_ball",
             "topicCategories": [
-              "Top Stories",
-              "Sports",
-              "Entertainment"
+              "Top Stories"
             ],
             "mappedTopicCategoriesInTabs": [],
             "categoriesLimits": []
