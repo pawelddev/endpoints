@@ -169,7 +169,7 @@
             "pageLimits": [
               {
                 "topicCategory": "Business",
-                "lastPage": 3
+                "maxPage": 3
               }
             ]
           },
