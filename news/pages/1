@@ -166,7 +166,7 @@
             "mappedTopicCategoriesInTabs": [
               "Mega News"
             ],
-            "pageLimits": [
+            "categoryPageLimits": [
               {
                 "topicCategory": "Business",
                 "maxPage": 3
@@ -185,7 +185,7 @@
               "Entertainment"
             ],
             "mappedTopicCategoriesInTabs": [],
-            "pageLimits": []
+            "categoryPageLimits": []
           }
         ]
       }
