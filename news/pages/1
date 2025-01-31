@@ -144,46 +144,65 @@
         }
       },
       "bottomNav": {
-        "items": [
-          {
-            "labelName": "Read",
-            "type": "ArticleListConfig",
-            "isOnlyVideo": false,
-            "iconName": "book",
-            "topicCategories": [
-              "Top Stories",
-              "Business",
-              "Sports",
-              "Auto",
-              "Weather",
-              "Tech",
-              "Politics",
-              "Entertainment",
-              "Health",
-              "General"
-            ],
-            "mappedTopicCategoriesInTabs": [
-              "Mega News"
-            ],
-            "categoriesLimits": [
-              {
-                "topicCategory": "Business",
-                "maxPage": 3
-              }
-            ]
-          },
-          {
-            "labelName": "Sports",
-            "type": "ArticleListConfig",
-            "isOnlyVideo": false,
+        "items": {
+          "bookmarks": {
+            "label": "Bookmarks",
+            "position": 0,
             "iconName": "soccer_ball",
-            "topicCategories": [
-              "Top Stories"
-            ],
-            "mappedTopicCategoriesInTabs": [],
-            "categoriesLimits": []
-          }
-        ]
+            "isInBottomNav": true
+          },
+          "channels": {
+            "label": "Live",
+            "iconName": "soccer_ball",
+            "isInBottomNav": true,
+            "position": 0
+          },
+          "settings": {
+            "label": "Profile",
+            "iconName": "soccer_ball",
+            "position": 4
+          },
+          "category": [
+            {
+              "position": 0,
+              "label": "Read",
+              "isOnlyVideo": false,
+              "iconName": "book",
+              "topicCategories": [
+                "Top Stories",
+                "Business",
+                "Sports",
+                "Auto",
+                "Weather",
+                "Tech",
+                "Politics",
+                "Entertainment",
+                "Health",
+                "General"
+              ],
+              "mappedTopicCategoriesInTabs": [
+                "Mega News"
+              ],
+              "categoriesLimits": [
+                {
+                  "topicCategory": "Business",
+                  "maxPage": 3
+                }
+              ]
+            },
+            {
+              "position": 1,
+              "label": "Sports",
+              "isOnlyVideo": false,
+              "iconName": "soccer_ball",
+              "topicCategories": [
+                "Top Stories"
+              ],
+              "mappedTopicCategoriesInTabs": [],
+              "categoriesLimits": []
+            }
+          ]
+        }
       }
     },
     "articles": {
