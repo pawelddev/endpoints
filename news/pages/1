@@ -187,7 +187,7 @@
             "type": "channels",
             "label": "Live",
             "isOnlyVideo": false,
-            "iconName": "soccer_ball",
+            "iconId": "soccer_ball",
             "topicCategories": [],
             "mappedTopicCategoriesInTabs": [],
             "categoriesLimits": []
