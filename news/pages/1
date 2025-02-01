@@ -162,7 +162,7 @@
             "iconName": "soccer_ball",
             "position": 4
           },
-          "category": [
+          "categories": [
             {
               "position": 0,
               "label": "Read",
