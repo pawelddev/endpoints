@@ -146,6 +146,7 @@
       "bottomNav": {
         "items": [
           {
+            "id": "read",
             "label": "Read",
             "isOnlyVideo": false,
             "iconId": "menuBook",
@@ -175,6 +176,7 @@
           {
             "type": "categories",
             "label": "Sports",
+            "id": "sports",
             "isOnlyVideo": false,
             "iconId": "soccerBall",
             "topicCategories": [
@@ -186,6 +188,7 @@
           {
             "type": "channels",
             "label": "Live",
+            "id": "live",
             "isOnlyVideo": false,
             "iconId": "videoCam",
             "topicCategories": [],
@@ -195,6 +198,7 @@
           {
             "type": "bookmarks",
             "label": "Bookmarks",
+            "id": "bookmarks",
             "isOnlyVideo": false,
             "iconId": "bookmark",
             "topicCategories": [],
@@ -204,6 +208,7 @@
           {
             "type": "settings",
             "label": "Profile",
+            "id": "profile",
             "isOnlyVideo": false,
             "iconId": "accountCircle",
             "topicCategories": [],
