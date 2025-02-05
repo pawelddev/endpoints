@@ -3,8 +3,11 @@
     "config": {
       "version": 1,
       "settings": {
+        "bookmarks": {
+          "position": 0
+        },
         "privacy": {
-          "position": 1
+          "position": 2
         },
         "notifications": {
           "position": 1
