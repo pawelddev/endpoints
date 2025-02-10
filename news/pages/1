@@ -108,13 +108,13 @@
           [
             {
               "adUnitId": "ca-app-pub-3940256099942544/2247696110",
-              "type": "AdmobNativeMedium"
+              "type": "admobNativeMedium"
             }
           ],
           [
             {
               "adUnitId": "ca-app-pub-3940256099942544/3986624511",
-              "type": "AdmobNativeMedium"
+              "type": "admobNativeMedium"
             }
           ]
         ],
@@ -122,13 +122,13 @@
           [
             {
               "adUnitId": "ca-app-pub-3940256099942544/2247696110",
-              "type": "AdmobNativeMedium"
+              "type": "admobNativeMedium"
             }
           ],
           [
             {
               "adUnitId": "ca-app-pub-3940256099942544/3986624511",
-              "type": "AdmobNativeMedium"
+              "type": "admobNativeMedium"
             }
           ]
         ]
