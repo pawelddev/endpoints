@@ -4,16 +4,23 @@
       "version": 1,
       "settings": {
         "bookmarks": {
+          "id": "bookmarks",
+          "label": "Bookmarks",
           "position": 0
         },
         "privacy": {
+          "id": "privacy",
+          "label": "Privacy",
           "position": 2
         },
         "notifications": {
+          "id": "notifications",
+          "label": "Notifications",
           "position": 1
         },
         "list": [
           {
+            "id": "aboutUs",
             "label": "About us",
             "articleDetails": {
               "articleId": "a066e70734dc42bc8dca34ccd5787ddetest2",
@@ -28,6 +35,7 @@
             }
           },
           {
+            "id": "terms",
             "label": "Terms and condistions ",
             "articleDetails": {
               "articleId": "84ddcdf1997d481ba45e0db170e9ec02test",
@@ -427,6 +435,7 @@
     },
     "channels": [
       {
+        "id": "Live TV - TVD English",
         "name": "Live TV - TVD English",
         "description": "latest news",
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -489,6 +498,7 @@
         ]
       },
       {
+        "id": "Live TV - TVD Polish",
         "name": "Live TV - TVD Polish",
         "description": "latest news",
         "videoUrl": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
